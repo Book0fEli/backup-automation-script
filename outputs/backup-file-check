@@ -1,0 +1,7 @@
+total 28
+-rw-r--r-- 1 theia users 4421 Sep 16 10:37 backup-1789569479.tar.gz
+-rw-r--r-- 1 theia users    0 Sep 16 10:37 backup-file-check
+-rw-r--r-- 1 theia users   53 Sep 16 10:28 backup-permissions
+-rwxr-xr-x 1 theia users 1431 Sep 16 10:37 backup.sh
+drwxr-sr-x 2 theia users 4096 Sep 16 10:37 important-documents
+-rw-r--r-- 1 theia users 4995 Sep 28  2022 important-documents.zip
